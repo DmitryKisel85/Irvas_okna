@@ -1,3 +1,3 @@
 Лендинг для компании занимающейся продажей и установкой окон
 
-HTML, CSS, pure JS, сборка Gulp
+HTML, CSS, pure JS, сборка Gulp/Webpack
